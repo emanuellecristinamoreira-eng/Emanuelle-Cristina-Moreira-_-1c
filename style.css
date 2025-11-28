@@ -19,6 +19,11 @@ header {
     justify-content: center;
 }
 
+p{
+    text-align: center;
+    font-size: 10px;
+}
+
 .chamada-texto {
     margin-right: 5%;
 
