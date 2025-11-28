@@ -1,8 +1,6 @@
 body {
     color: red;
-
-    background: black;
-
+   background: black;
 }
 
 header {
@@ -10,7 +8,7 @@ header {
     padding: 29px;
     font-size: 32px;
     color: darkorchid;
-    background: rgb(110, 80, 129));
+    background: darkblue;
 }
 
 .chamada {
@@ -23,6 +21,7 @@ header {
 
 .chamada-texto {
     margin-right: 5%;
+
 
 
 
