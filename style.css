@@ -13,18 +13,14 @@ header {
 
 .chamada {
     background: darkslateblue;
-     padding bottom: 100px;
-    padding: top 100px;
+    padding-bottom: 100px;
+    padding-top: 100px;
     display: flex;
     justify-content: center;
 }
 
 .chamada-texto {
     margin-right: 5%;
-
-
-
-
 
 }
 .categoria_videos{
